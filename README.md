@@ -14,3 +14,11 @@
 </div>
 
 <br/>
+
+![](https://komarev.com/ghpvc/?username=muskanrani&color=brightgreen)
+![](https://visitor-badge.glitch.me/badge?page_id=muskanrani.muskanrani)
+<img src="https://img.shields.io/github/forks/muskanrani/muskanrani?style=social"></img>
+<h2>My portfolio <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
+https://github.com/alexpfaffen/alexpfaffenzeller
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
